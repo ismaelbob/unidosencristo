@@ -7,16 +7,26 @@
         private $charset;
 
         public function __construct(){
-            $this->servidor = "localhost";
+            //Para 000webhost
+            /*$this->servidor = "localhost";
             $this->usuario = "id15959899_ismaelbobjg";
             $this->pass = "telefono.vidrioG2";
             $this->database = "id15959899_uec";
-            $this->charset = "utf8mb4";
+            $this->charset = "utf8mb4";*/
+
+            //Para Local
             /*$this->servidor = "localhost";
             $this->usuario = "root";
             $this->pass = "";
             $this->database = "uec";
             $this->charset = "utf8mb4";*/
+
+            // Para Clever Cloud
+            $this->servidor = "bqxxgnvj9oydsxmmdxy2-mysql.services.clever-cloud.com";
+            $this->usuario = "ukx6ly9c1qwbzo8z";
+            $this->pass = "aovP8aCVTwOvaDTwQ4E3";
+            $this->database = "bqxxgnvj9oydsxmmdxy2";
+            $this->charset = "utf8mb4";
         }
 
         public function conectar(){

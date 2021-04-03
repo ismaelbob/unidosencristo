@@ -57,6 +57,9 @@ btnNuevaCancion.addEventListener('click', () => {
             } else {
                 let ultimo = parseInt(respuesta)
                 $('#txtnumerocancion').val(ultimo + 1)
+                if(himnario === '1') {
+                    $('#txtautorcancion').val('Diosman taquinachej')
+                }
             }
         },
         error: function() {
