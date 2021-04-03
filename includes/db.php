@@ -12,6 +12,11 @@
             $this->pass = "telefono.vidrioG2";
             $this->database = "id15959899_uec";
             $this->charset = "utf8mb4";
+            /*$this->servidor = "localhost";
+            $this->usuario = "root";
+            $this->pass = "";
+            $this->database = "uec";
+            $this->charset = "utf8mb4";*/
         }
 
         public function conectar(){

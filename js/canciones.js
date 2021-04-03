@@ -33,6 +33,7 @@ const cargarCanciones = (himnario) => {
         },
         error: function() {
             $(tablaCanciones).html('Vuelva a intentar')
+            overlayCargando.classList.add('d-none')
         }
     })
 }
@@ -94,7 +95,9 @@ btnGuardarCancion.addEventListener('click', () => {
             overlayCargando.classList.add('d-none')
         },
         error: function() {
-            //
+            alertRespuesta.classList.replace('alert-success', 'alert-danger')
+            alertRespuesta.innerHTML = 'Error en la conexion a la base de datos, vuelva a intentar'
+            overlayCargando.classList.add('d-none')
         }
     })
 })
@@ -121,7 +124,9 @@ btnModificarCancion.addEventListener('click', () => {
             overlayCargando.classList.add('d-none')
         },
         error: function() {
-            //
+            alertRespuesta.classList.replace('alert-success', 'alert-danger')
+            alertRespuesta.innerHTML = 'Error en la conexion a la base de datos, vuelva a intentar'
+            overlayCargando.classList.add('d-none')
         }
     })
 })
