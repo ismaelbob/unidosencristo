@@ -96,13 +96,13 @@
                 <div class="card h-100">
                     <h5 class="card-header">Ministerios</h5>
                     <div class="card-body">
-                        <h5 class="text-pri">ABRIL</h5>
+                        <h5 class="text-pri">MAYO</h5>
                         <div class="py-2 border-bottom">
                             <h6 class="card-title">&bull; Practicas de canto</h6>
                             <p class="card-text">
                                 <span class="text-pri">Para:</span> Vocalistas de los ministerios de alabanza<br>
                                 <span class="text-pri">Hora:</span> 19:00<br>
-                                <span class="text-pri">Fecha:</span> Miercoles 7, 14, 21, 28<br>
+                                <span class="text-pri">Fecha:</span> Miercoles 5, 12, 19, 26<br>
                             </p>
                         </div>
                         <div class="py-2 border-bottom">
@@ -110,7 +110,7 @@
                             <p class="card-text">
                                 <span class="text-pri">Para:</span> Integrantes de los ministerios de alabanza<br>
                                 <span class="text-pri">Hora:</span> 19:00<br>
-                                <span class="text-pri">Fecha:</span> 12<br>
+                                <span class="text-pri">Fecha:</span> 10<br>
                             </p>
                         </div>
                         <div class="py-2 border-bottom">
@@ -118,7 +118,7 @@
                             <p class="card-text">
                                 <span class="text-pri">Para:</span> Integrandes de los ministerios de alabanza<br>
                                 <span class="text-pri">Hora:</span> 7:00<br>
-                                <span class="text-pri">Fecha:</span> 18<br>
+                                <span class="text-pri">Fecha:</span> 16<br>
                             </p>
                         </div>
                     </div>
@@ -249,6 +249,76 @@
                             <div class="col-12 col-sm-3 rounded-pill bg-g1 my-sm-0 mt-1">Sab. 10 Min. Invitado</div>
                             <div class="col-12 col-sm-3 rounded-pill bg-g2 my-sm-0 my-1">Sab. 17 Even-Ezer</div>
                             <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0">Sab. 24 Oriel</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-3">
+        <div class="card">
+        <h5 class="card-header">Mayo</h5>
+            <div class="card-body">
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Even-Ezer</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Domingo 2</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2 my-sm-0 my-1">Martes 4</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Jueves 6</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Oriel</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g3">Domingo 9</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g3 my-sm-0 my-1">Martes 11</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g3">Jueves 13</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Hno. Ismael</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g4">Domingo 16</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g4 my-sm-0 my-1">Martes 18</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g4">Jueves 20</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Cuerdas</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g1">Domingo 23</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g1 my-sm-0 my-1">Martes 25</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g1">Jueves 27</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Even-Ezer</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Domingo 30</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2 my-sm-0 my-1">Martes 1 junio</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Jueves 3 junio</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-4 col-sm-2">Culto de jóvenes</div>
+                    <div class="col-8 col-sm-10">
+                        <div class="row">
+                            <div class="col-12 col-sm-3 rounded-pill bg-g2">Sab. 1 Even-Ezer</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g4 my-sm-0 mt-1">Sab. 8 Ismael</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0 my-1">Sab. 15 Oriel</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g2 my-sm-0">Sab. 22 Even-Ezer</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0">Sab. 29 Ismael</div>
                         </div>
                     </div>
                 </div>
