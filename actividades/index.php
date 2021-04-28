@@ -255,6 +255,76 @@
             </div>
         </div>
     </div>
+
+    <div class="container mt-3">
+        <div class="card">
+        <h5 class="card-header">Mayo</h5>
+            <div class="card-body">
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Even-Ezer</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Domingo 2</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2 my-sm-0 my-1">Martes 4</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Jueves 6</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Oriel</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g3">Domingo 9</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g3 my-sm-0 my-1">Martes 11</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g3">Jueves 13</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Hno. Ismael</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g4">Domingo 16</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g4 my-sm-0 my-1">Martes 18</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g4">Jueves 20</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Hno. Cuerdas</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g1">Domingo 23</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g1 my-sm-0 my-1">Martes 25</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g1">Jueves 27</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-5 col-sm-6">Ministerio Even-Ezer</div>
+                    <div class="col-7 col-sm-6">
+                        <div class="row">
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Domingo 30</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2 my-sm-0 my-1">Martes 1 junio</div>
+                            <div class="col-12 col-sm-4 rounded-pill bg-g2">Jueves 3 junio</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom p-2">
+                    <div class="col-4 col-sm-2">Culto de jóvenes</div>
+                    <div class="col-8 col-sm-10">
+                        <div class="row">
+                            <div class="col-12 col-sm-3 rounded-pill bg-g2">Sab. 1 Even-Ezer</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0 mt-1">Sab. 8 Oriel</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g4 my-sm-0 my-1">Sab. 15 Ismael</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g2 my-sm-0">Sab. 22 Even-Ezer</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0">Sab. 29 Oriel</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!--Scripts-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
