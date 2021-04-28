@@ -318,7 +318,7 @@
                             <div class="col-12 col-sm-3 rounded-pill bg-g4 my-sm-0 mt-1">Sab. 8 Ismael</div>
                             <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0 my-1">Sab. 15 Oriel</div>
                             <div class="col-12 col-sm-3 rounded-pill bg-g2 my-sm-0">Sab. 22 Even-Ezer</div>
-                            <div class="col-12 col-sm-3 rounded-pill bg-g3 my-sm-0">Sab. 29 Ismael</div>
+                            <div class="col-12 col-sm-3 rounded-pill bg-g4 my-sm-0">Sab. 29 Ismael</div>
                         </div>
                     </div>
                 </div>
